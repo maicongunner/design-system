@@ -1,6 +1,12 @@
 {
   "private": true,
+  "scripts": {
+    "dev": "turbo run dev --parallel"
+  },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "turbo": "^1.6.3"
+  }
 }
