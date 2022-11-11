@@ -1,0 +1,2 @@
+import{A as t}from"./index.ce281480.js";import"./index.10046086.js";import"./iframe.a19d1705.js";import"./index.da0070bb.js";import"./jsx-runtime.e81d900f.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/maicongunner.png",alt:"Maicon Domingues"},argTypes:{src:{control:{type:"text"}}}},n={},m={args:{src:void 0}},p=["Primary","WithFallback"];export{n as Primary,m as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.04e19cd4.js.map
